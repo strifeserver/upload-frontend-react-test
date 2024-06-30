@@ -1,4 +1,4 @@
-![image](https://github.com/strifeserver/upload-frontend-react-test/assets/40680715/12ea2184-4473-4f8d-b622-e3facc7eb0df)
+
 
 ### Running React from local
 
