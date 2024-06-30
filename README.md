@@ -18,4 +18,7 @@ npm install
 npm start
 ```
 
+
+
 Do adjust .env if backend will be running from the local too
+for now frontend is connected to live/digital ocean
