@@ -18,4 +18,4 @@ npm install
 npm start
 ```
 
-
+Do adjust .env if backend will be running from the local too
